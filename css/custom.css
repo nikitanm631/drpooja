@@ -102,6 +102,9 @@
   background-color:#30CFBE;
   color:white;
 }
+.pad{
+  padding: 20px;
+}
 /*---------------------------top bar css*/
 .top-bar{
   background-color: #ffffff;
