@@ -1,3 +1,6 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
 .plr-0{
   padding-left: 0px;
   padding-right: 0px;
@@ -262,12 +265,50 @@ TESTIMONIAL SEC
 */
 .testimonial-sec{
   background: #3494E6;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.testimonials .item{
+  position: relative;
+  background-image: url('../myimages/quotes.png');
+  background-size: 70px;
+  background-position: inherit;
+  background-repeat: no-repeat;
+  padding: 40px;
+}
+.testimonials .item p{
+  color:white;
 }
 
+/*
+=====================================
+APPOINTMENT SECTION
+=====================================
+*/
+.appointment-sec{
+  background-image: url("../myimages/bottom-triangle-bg.jpg");
+  background-size: cover;
+}
+.appointment-sec .shadow{
+  background-color: white;
+}
+.form-control{
+    color: #293140;
+    border-color: #f6f7fb;
+    background-color: #f6f7fb;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 22px;
+}
 
+footer p{
+  margin: 0
+}
+footer a,
+footer a:hover{
+  text-decoration: none;
+  color:white;
+}
 @media only screen and (max-width:500px) {
 
 }
