@@ -178,26 +178,96 @@
 		<!-- TESTIMONIAL SECTION -->
  		<section class="testimonial-sec pt-55 pb-40">
 
-			<div class="container service-header">
-				<div class="row">
-					<div class="col-md-12">
-						<p class="text-center text-white"> <b><span class="text-white">03</span> Testimonials</b> </p>
+				<div class="container service-header">
+					<div class="row">
+						<div class="col-md-12">
+							<p class="text-center text-white"> <b><span class="text-white">03</span> Testimonials</b> </p>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="text-center text-white">What Patients Are Saying</h1>
+						</div>
 					</div>
 				</div>
-				<br>
-				<div class="row">
-					<div class="col-md-12">
-						<h1 class="text-center text-white">What Patients Are Saying</h1>
+				<br><br>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="owl-carousel owl-theme testimonials">
+							    <div class="item">
+										<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"</p>
+										<p> <b>XYZ</b> </p>
+							    </div>
+
+							</div>
+						</div>
 					</div>
 				</div>
-			</div>
-
-			<div class="container">
-
-			</div>
 
  		</section>
 		<!-- END TESTIMONIAL SECTION -->
+
+		<!-- APPOINTMENT SECTION -->
+		<section class="appointment-sec pt-55 pb-40">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-6">
+						<h2>Book An Appointment</h2>
+						<br>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </p>
+
+						<br>
+
+						<div class="shadow pad">
+							<form class="" action="index.html" method="post">
+								<div class="form-group">
+									<input type="text" name="name" value="" class="form-control" placeholder="Name">
+								</div>
+								<div class="form-group">
+									<input type="email" name="email" value="" class="form-control" placeholder="Email">
+								</div>
+								<div class="form-group">
+									<input type="text" name="subject" value="" class="form-control" placeholder="Subject">
+								</div>
+								<div class="form-group">
+									<textarea name="message" rows="8" cols="80" class="form-control" placeholder="Message"></textarea>
+								</div>
+								<div class="form-group">
+									<input type="submit" name="" value="Send" class="btn btn-theme">
+								</div>
+							</form>
+						</div>
+
+					</div>
+
+					<div class="col-md-6">
+						<img src="myimages/appoint-sec.jpg" alt="" class="img-responsive">
+						<div class="row">
+							<div class="col-md-12"><h2>Contact Us</h2> <br></div>
+
+							<div class="col-md-4">
+								<p class="text-blue"> <b>Address:</b> </p>
+								<p>Address line 1, 400001</p>
+							</div>
+							<div class="col-md-4">
+								<p class="text-blue"> <b>Phone:</b> </p>
+								<p>12345678900</p>
+							</div>
+							<div class="col-md-4">
+								<p class="text-blue"> <b>Email:</b> </p>
+								<p>info@drpooja.com</p>
+							</div>
+
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- END APPOINTMENT SECTION -->
 
 
 

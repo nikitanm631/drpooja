@@ -1,4 +1,6 @@
-
+<footer class="bg-blue pad">
+  <p class="text-center text-white"> <i class="fa fa-code"></i> With  <i class="fa fa-heart"></i> By <a href="https://www.cyberrafting.com">Cyber Rafting</a> </p>
+</footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animations/2.1/js/animations.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animations/2.1/js/appear.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animations/2.1/js/smoothscroll.min.js"></script>
