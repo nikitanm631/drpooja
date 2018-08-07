@@ -83,7 +83,7 @@
 			<div class="container service-header">
 				<div class="row">
 					<div class="col-md-12">
-						<p class="text-center text-blue"> <b><span>02</span> services</b> </p>
+						<p class="text-center text-blue"> <b><span class="text-purple">02</span> services</b> </p>
 					</div>
 				</div>
 			</div>
@@ -161,10 +161,45 @@
 						</div>
 
 					</div>
+					<br><br>
+
+					<div class="row">
+							<div class="col-md-12 text-center">
+								<a href="#" class="btn btn-theme">More Services</a>
+							</div>
+					</div>
+
+
 			</div>
 
 		</section>
 		<!-- END SERVICE SECTION -->
+
+		<!-- TESTIMONIAL SECTION -->
+ 		<section class="testimonial-sec pt-55 pb-40">
+
+			<div class="container service-header">
+				<div class="row">
+					<div class="col-md-12">
+						<p class="text-center text-white"> <b><span class="text-white">03</span> Testimonials</b> </p>
+					</div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-12">
+						<h1 class="text-center text-white">What Patients Are Saying</h1>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+
+			</div>
+
+ 		</section>
+		<!-- END TESTIMONIAL SECTION -->
+
+
 
 	</div>
 	<?php include 'includes/footer.php'; ?>
