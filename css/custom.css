@@ -105,6 +105,9 @@
 .pad{
   padding: 20px;
 }
+.no-pad{
+  padding: 0;
+}
 /*---------------------------top bar css*/
 .top-bar{
   background-color: #ffffff;
