@@ -1,0 +1,253 @@
+.plr-0{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.p-0{
+  padding: 13px;
+}
+.mt-6{
+  margin-top: 6px;
+}
+.mt-19{
+  margin-top: 19px;
+}
+.mt-50m{
+  margin-top: -50px;
+}
+.p-15{
+  padding: 15px;
+}
+.mt-55{
+  margin-top: 55px;
+}
+.pt-55{
+  padding-top: 55px;
+}
+.pt-35{
+  padding-top: 35px;
+}
+.pb-40{
+  padding-bottom: 40px;
+}
+.plr-100{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.fs-16{
+  font-size: 16px;
+}
+.bg-fb{
+  background-color:#3A559F;
+}
+.bg-tweet{
+  background-color:#1da1f2;
+}
+.bg-google{
+  background-color:#dd4b39;
+}
+.row-head{
+  margin-bottom: 22px;
+}
+.banner-head{
+  background-image: url('../myimages/about.jpg');
+  padding: 100px;
+  background-size: cover;
+}
+.banner-head h2{
+  color: #ffffff;
+  text-align: right;
+  font-size: 35px;
+  margin-top: 5px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+.text-pur{
+  color: #904a8e;
+}
+.text-white{
+  color: #ffffff;
+}.text-red{
+  color: #ae100f;
+}
+.btn-red{
+  background-color: #ae100f;
+  color: white;
+}
+.btn-theme{
+  border-radius: 30px;
+  padding: 8px 26px;
+  background-color: #44318d;
+  border:1px solid #44318d;
+  color: #ffffff;
+  transition: 0.5s;
+  padding: 8px 28px;
+    font-size: 18px;
+}
+.btn-theme:hover{
+  background-color: #d83f87;
+  border: 1px solid #d83f87;
+  color: #ffffff;
+  transition: 0.5s;
+}
+.floater{
+  position: absolute;
+}
+.shadow{
+  box-shadow: 0 0 38px rgba(41,49,64,0.07);
+}
+.text-blue{
+  color:#30CFBE
+}
+.bg-blue{
+  background-color:#30CFBE;
+  color:white;
+}
+/*---------------------------top bar css*/
+.top-bar{
+  background-color: #ffffff;
+  color: #6e7480;
+  border-bottom: 2px solid #f2f3f7;
+}
+.top-bar .row{
+  margin-top: 7px;
+}
+.top-bar p{
+  margin-bottom: 7px;
+}
+
+
+
+/*---------------------------navbar css*/
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: none;
+}
+.navbar .fa{
+  color: #ae100f;
+}
+.navbar-default {
+    background-color: #ffffff;
+    border-color: transparent;
+    padding: 15px;
+}
+.navbar-default .navbar-nav>li>a{
+  margin-right: 5px;
+  color: #000000;
+  font-weight: 400;
+  font-size: 16px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  letter-spacing: 0.05em;
+}
+.navbar-brand h3{
+  margin: 0 auto;
+}
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+  top: 40px;
+  left: -5px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  padding: 0px 0px;
+  min-width: 205px;
+}
+.dropdown-menu>li>a {
+  display: block;
+  padding: 7px 20px;
+  clear: both;
+  font-weight: 400;
+  line-height: 1.42857143;
+  color: #ae100f;
+  white-space: nowrap;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+/*-------------------carousel css*/
+.carousel-control.left{
+  background-image: none!important;
+}
+.carousel-control.right{
+  background-image: none!important;
+}
+
+
+/*------------------------------------------------------------------------------ about section css */
+.about-sec{
+  background-image: url('../myimages/top_triangle_bg.jpg');
+  background-size: cover;
+  background-position: right;
+}
+.about-sec .img-sec{
+  position: relative;
+}
+.about-sec .img-sec .floater{
+    width: 73%;
+    background: white;
+    left: 52px;
+    bottom: -21px;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    display: inline-flex;
+}
+.about-sec .img-sec .floater h5{
+    font-size: 1.125em;
+    font-weight: 600;
+    line-height: 1.5em;
+    margin-top: 3px;
+}
+.about-sec .img-sec .floater h4{
+    margin-bottom: 0
+}
+
+.about-sec .img-sec .floater .fa{
+    margin-left: 26px;
+    margin-top: 19px;
+    margin-right: 15px;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+
+/*
+====================================
+SERVICE SECTION
+====================================
+*/
+.service-sec{
+  background-image: url("../myimages/bottom-triangle-bg.jpg");
+}
+
+.service-sec .service-header span{
+  color:#a8a1e1;
+  position: relative;
+  margin-right: 45px;
+}
+.service-sec .service-header span:after{
+  background-color: #dddddd;
+    content: '';
+    display: block;
+    height: 2px;
+    width: 2.2em;
+    position: absolute;
+    right:-40px;
+    top: 50%;
+}
+.service-box{
+  padding: 12px;
+  background-color: white;
+}
+.service-box .img-sec img{
+  margin: auto
+
+}
+.service-box .btn-read{
+    padding: 13px 15px;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width:500px) {
+
+}
