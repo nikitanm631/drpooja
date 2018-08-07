@@ -1,3 +1,16 @@
+/* CSS */
+
+
+body{
+  overflow-x: hidden;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+
 .plr-0{
   padding-left: 0px;
   padding-right: 0px;
@@ -48,26 +61,14 @@
 .row-head{
   margin-bottom: 22px;
 }
-.banner-head{
-  background-image: url('../myimages/about.jpg');
-  padding: 100px;
-  background-size: cover;
-}
-.banner-head h2{
-  color: #ffffff;
-  text-align: right;
-  font-size: 35px;
-  margin-top: 5px;
-  text-transform: uppercase;
-  margin-bottom: 15px;
-}
 .text-purple{
   color: #3494E6;
 }
 .text-white{
   color: #ffffff;
-}.text-red{
-  color: #ae100f;
+}
+.text-red{
+  color: #d83f87;
 }
 .btn-red{
   background-color: #ae100f;
@@ -81,7 +82,7 @@
   color: #ffffff;
   transition: 0.5s;
   padding: 8px 28px;
-    font-size: 18px;
+  font-size: 18px;
 }
 .btn-theme:hover{
   background-color: #3494E6;
@@ -103,11 +104,31 @@
   color:white;
 }
 .pad{
-  padding: 30px;
+  padding: 20px;
 }
 .no-pad{
   padding: 0;
 }
+
+/* --------------------------single page banner css */
+.banner-head{
+  background-image: url('../myimages/banner.jpg');
+  background-size: cover;
+}
+.banner-head .breadcrumb{
+  background-color: transparent;
+  padding: 0 2px;
+}
+.banner-head .breadcrumb a{
+  color: #333;
+  transition: 0.5s;
+}
+.banner-head .breadcrumb a:hover{
+  color: #d83f87;
+  transition: 0.5s;
+}
+
+
 /*---------------------------top bar css*/
 .top-bar{
   background-color: #ffffff;
@@ -265,6 +286,57 @@ TESTIMONIAL SEC
 background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
+}
+
+
+/* NM css  */
+
+/*
+====================================
+Service Page
+====================================
+*/
+.service-nav li{
+  padding: 14px;
+  border: 1px solid #efefef;
+  color: #3c3c3c;
+  font-size: 17px;
+  transition: 0.5s;
+}
+.service-nav li:before{
+  content: '\027A4';
+  padding-right: 15px;
+  border-right: 1px solid #ccc;
+  margin-right: 15px;
+  transition: 0.5s;
+}
+.service-nav li.active{
+  color: #ffffff;
+  background: #3494E6;
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);
+  background: linear-gradient(to right, #EC6EAD, #3494E6);
+  transition: 0.5s;
+}
+.service-nav li.active:before{
+  content: '\027A4';
+  padding-right: 15px;
+  margin-right: 0;
+  border-right: none;
+  transition: 0.5s;
+}
+.service-nav li:hover{
+  color: #ffffff;
+  background: #3494E6;
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);
+  background: linear-gradient(to right, #EC6EAD, #3494E6);
+  transition: 0.5s;
+}
+.service-nav li:hover:before{
+  content: '\027A4';
+  padding-right: 15px;
+  margin-right: 0;
+  border-right: none;
+  transition: 0.5s;
 }
 
 
