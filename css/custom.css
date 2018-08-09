@@ -418,6 +418,44 @@ ABOUT PAGE
     margin-right: 15px;
 }
 
+/*
+========================================
+CONTACT PAGE
+========================================
+*/
+.contact-page p{
+  line-height: 25px;
+  color:#979797;
+}
+.contact-page h4{
+  margin-top: 35px;
+}
+.contact-page a{
+  text-decoration: none;
+  color:#333;
+}
+.contact-page .social-ico{
+    margin: 20px;
+    background-color: #dfdfdf;
+    padding: 14px 17px;
+    margin-top: 9px;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.contact-page .social-ico:hover{
+  transition: 0.5s;
+  background-color: #3494E6;
+  color:white;
+}
+
+.contact-page .fa-twitter{
+  padding: 15px 16px;
+}
+.contact-page .fa-google-plus{
+  padding: 14px 13px;
+}
+
+
 @media only screen and (max-width:500px) {
 
 }
