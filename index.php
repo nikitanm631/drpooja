@@ -83,7 +83,7 @@
 			<div class="container service-header">
 				<div class="row">
 					<div class="col-md-12">
-						<p class="text-center text-blue"> <b><span class="text-purple">02</span> services</b> </p>
+						<p class="text-center text-blue"> <b><span class="text-purple">02</span> Services</b> </p>
 					</div>
 				</div>
 			</div>
