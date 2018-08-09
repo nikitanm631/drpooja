@@ -57,15 +57,7 @@
         <li><a href="index.php">Home</a></li>
 
         <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-                <li><a href="about.php">About Doctor</a></li>
-                <li><a href="profile.php">Academic Profile</a></li>
-                <li><a href="publications.php">Publications</a></li>
-                <li><a href="papers-and-posters.php">Papers and Posters in CSI</a></li>
-                <li><a href="experience.php">Experience</a></li>
-            </ul>
-        </li>
+            <a href="about.php">About</a></li>
         <li><a href="services.php">Services</a></li>
         <li><a href="" target="_blank">Blog</a></li>
 

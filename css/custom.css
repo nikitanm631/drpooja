@@ -201,7 +201,7 @@ body{
 
 
 /*------------------------------------------------------------------------------ about section css */
-.about-sec{
+.about-sec, .doc-sec{
   background-image: url('../myimages/top_triangle_bg.jpg');
   background-size: cover;
   background-position: right;
@@ -281,7 +281,7 @@ SERVICE SECTION
 TESTIMONIAL SEC
 ========================================
 */
-.testimonial-sec{
+.testimonial-sec, .single-header{
   background: #3494E6;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -303,7 +303,7 @@ TESTIMONIAL SEC
 APPOINTMENT SECTION
 =====================================
 */
-.appointment-sec{
+.appointment-sec, .about-service-sec{
   background-image: url("../myimages/bottom-triangle-bg.jpg");
   background-size: cover;
 }
@@ -367,7 +367,11 @@ Service Page
 }
 
 
-=======
+/*
+====================================
+FOOTER
+====================================
+*/
 footer p{
   margin: 0
 }
@@ -376,6 +380,44 @@ footer a:hover{
   text-decoration: none;
   color:white;
 }
+
+/*
+======================================
+Single HEADER
+======================================
+*/
+.single-header{
+  padding: 40px;
+  color:white;
+}
+.single-header ol li a{
+  color:white;
+}
+
+
+/*
+======================================
+ABOUT PAGE
+=====================================
+*/
+.doc-sec ul li{
+  list-style-type: none;
+  margin-top: 5px;
+}
+.doc-sec ul li:before{
+    background: transparent;
+    content: '\2714';
+    font-family: fontello;
+    font-size: 17px;
+    left: -1.65em;
+    height: auto;
+    line-height: auto;
+    top: 0;
+    width: auto;
+    color: #29cebc;
+    margin-right: 15px;
+}
+
 @media only screen and (max-width:500px) {
 
 }
