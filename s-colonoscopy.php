@@ -9,14 +9,17 @@
     <?php include 'includes/menu.php' ?>
 
     <!-- SINGLE HEADER -->
-    <div class="container-fluid pad banner-head">
-      <div class="row">
-        <div class="col-md-3 col-md-offset-1">
-          <h3 class="text-light"> <b>Services</b> </h3>
-          <ul class="breadcrumb">
-            <li> <a href="index.php">Home</a> </li>
-            <li class="active"><a href="#">Colonoscopy</a></li>
-          </ul>
+    <div class="banner-head single-header">
+      <div class="container-fluid">
+        <div class="row text-center">
+          <div class="col-md-12">
+            <h2>Colonoscopy</h2>
+            <ol class="breadcrumb">
+              <li><a href="index.php">Home</a></li>
+              <li><a href="services.php">Services</a></li>
+              <li class="active">Colonoscopy</li>
+            </ol>
+          </div>
         </div>
       </div>
     </div>
@@ -25,10 +28,10 @@
     <!-- CONTENT -->
     <div class="container pad ">
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-4">
           <?php include 'list-services.php'; ?>
         </div>
-        <div class="col-md-9">
+        <div class="col-md-8">
           <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
               <h2><span class="text-purple">Colono</span><span class="text-red">scopy</span> </h2>

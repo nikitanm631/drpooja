@@ -43,7 +43,7 @@
 
 							<a href="#"><i class="fa fa-facebook social-ico"></i></a>
 							<a href="#"><i class="fa fa-twitter social-ico"></i></a>
-							<a href="#"><i class="fa fa-google-plus social-ico"></i></a>
+							<a href="#"><i class="fa fa-google-plus social-ico"></i</a>
 
 					</div>
 					<div class="col-sm-6">
