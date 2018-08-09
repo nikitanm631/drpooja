@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Dr. Pooja Vijay Multani </title>
+	<title>Dr. Pooja Multani (Ghogare) </title>
 	<meta name = "keywords" content = "cardiologist">
 	<meta name = "description" content = "cardiologist in vashi navi mumbai">
 

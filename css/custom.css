@@ -70,6 +70,12 @@ body{
 .text-red{
   color: #d83f87;
 }
+.bg-lightgrey{
+  background-color: #f5f5f5;
+}
+.bg-darkgrey{
+  background-color: #e4e4e4;
+}
 .btn-red{
   background-color: #ae100f;
   color: white;
@@ -416,6 +422,93 @@ ABOUT PAGE
     width: auto;
     color: #29cebc;
     margin-right: 15px;
+}
+.research-sec{
+  background: #3494E6;
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);
+  background: linear-gradient(to right, #EC6EAD, #3494E6);
+}
+.research-sec .col-md-4{
+  border-right: 1px solid #9a9a9a;
+}
+.research-sec .col-md-3{
+  border-right: 1px solid #9a9a9a;
+}
+.research-col{
+  padding: 10px;
+}
+.research-col h4{
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
+.research-col li{
+  color: #ffffff;
+  text-align: justify;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.pub-sec .row1{
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 50px;
+}
+.pub-sec .nav-pills li a{
+  display: grid;
+
+}
+.pub-sec .nav-pills li a i{
+  font-size: 26px;
+  background-color: #ccc;
+  padding: 20px;
+  height: 64px;
+  width: 64px;
+  color: #fff;
+  margin: auto;
+  transform: rotate(45deg);
+  border-radius: 4px;
+}
+.pub-sec .nav-pills li a span{
+  text-transform: uppercase;
+  color: #333;
+  margin-top: 40px;
+}
+.pub-content{
+  padding: 40px;
+}
+.pub-content li{
+  text-align: justify;
+  margin-bottom: 10px;
+}
+.pub-content p{
+  text-align: justify;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #fff;
+}
+.nav-pills>li.active>a>i, .nav-pills>li.active>a:focus i, .nav-pills>li.active>a:hover i {
+    background-color: #d83f87;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #fff;
+}
+
+/* service page css */
+.service-page .service-col{
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+.service-page .service-col img{
+  margin: 20px auto;
+
+}
+.service-page .service-col h4{
+  margin: 25px auto;
 }
 
 @media only screen and (max-width:500px) {
