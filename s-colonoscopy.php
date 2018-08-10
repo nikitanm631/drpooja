@@ -37,8 +37,9 @@
               <h2><span class="text-purple">Colono</span><span class="text-red">scopy</span> </h2>
               <img src="myimages/services/10.jpg" alt="Dr Pooja" class="img-responsive">
               <br>
-              <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p class="text-justify">A colonoscopy is an exam your doctor uses to look inside your large intestine for possible causes of things like abdominal pain, rectal bleeding, or changes in bowel habits. Colonoscopies are also used to prevent colorectal cancer usually starting at age 50. During a colonoscopy abnormal growths, called polyps, can be removed before they transform into cancers.</p>
+              <p class="text-justify"><b>Procedure : </b>During the procedure, your child will be put to sleep with a special "sleep medicine" called general anesthetic. This helps make sure that your child will sleep through the procedure and will feel no pain. Your child's abdomen (belly) is filled with carbon dioxide gas (CO2). This lifts the abdominal wall like a dome. It gives the surgeon a better view of the organs inside the body, like the uterus, ovaries and bladder. It also gives the surgeon more space to work inside the body.</p>
+              
             </div>
           </div>
         </div>
