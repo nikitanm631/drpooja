@@ -31,9 +31,7 @@
 			        <img src="myimages/slider/2.jpg" alt="Slide2" style="width:100%;">
 			      </div>
 
-			      <div class="item">
-			        <img src="myimages/slider/3.jpg" alt="Slide3" style="width:100%;">
-			      </div>
+			     
 			    </div>
 
 			    <!-- Left and right controls -->
