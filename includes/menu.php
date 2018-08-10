@@ -49,7 +49,7 @@
       </button>
       <a class="navbar-brand" href="index.php">
       <!-- <img src="myimages/drlogo.png" alt="Dr. Pooja Vijay Multani" class="img-responsive"> -->
-      <h3>Dr. Pooja Multani (Ghogare)</h3>
+       <img src="myimages/DrPoojaLogo.png" alt="" class="img-responsive"> 
       </a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">

@@ -174,8 +174,11 @@ body{
   padding-top: 10px;
   letter-spacing: 0.05em;
 }
-.navbar-brand h3{
-  margin: 0 auto;
+.navbar-brand{
+  padding: 0
+}
+.navbar-brand img{
+  width:270px;
 }
 
 .dropdown:hover > .dropdown-menu {

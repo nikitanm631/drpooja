@@ -31,7 +31,7 @@
 			        <img src="myimages/slider/2.jpg" alt="Slide2" style="width:100%;">
 			      </div>
 
-			     
+
 			    </div>
 
 			    <!-- Left and right controls -->
@@ -267,6 +267,42 @@
 		</section>
 		<!-- END APPOINTMENT SECTION -->
 
+		<!-- Consulting Hospital Sec -->
+		<section class="consulting-sec pt-55 pb-40">
+			<div class="container">
+				<div class="service-header text-center">
+					<p class="text-blue"> <b><span class="text-blue">05</span> Consulting Hospitals</b> </p>
+					<h1>Consulting Hospitals</h1>
+				</div>
+				<div class="row">
+					<div class="col-md-2">
+						<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
+						<h4 class="text-center">Kharghar Medicity Hospital</h4>
+					</div>
+					<div class="col-md-2">
+						<img src="myimages/hospitals/apollo.jpg" alt="" class="img-responsive">
+						<h4 class="text-center">Apollo Hospital Belapur</h4>
+					</div>
+					<div class="col-md-2">
+						<img src="myimages/hospitals/fortis.jpg" alt="" class="img-responsive">
+						<h4 class="text-center">Fortis Hospital Vashi</h4>
+					</div>
+					<div class="col-md-2">
+						<img src="myimages/hospitals/c9.jpg" alt="" class="img-responsive">
+						<h4 class="text-center">CloudNine Hospital vashi</h4>
+					</div>
+					<div class="col-md-2">
+						<img src="myimages/hospitals/dy.jpg" alt="" class="img-responsive">
+						<h4 class="text-center">Dr. D.Y.Patil Hospital Nerul</h4>
+					</div>
+					<div class="col-md-2">
+						<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
+						<h4 class="text-center">Motherhood Hospital Kharghar</h4>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Consulting Hospital Sec -->
 
 
 	</div>
