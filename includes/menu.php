@@ -1,6 +1,7 @@
 <div class="top-bar">
   <div class="container">
     <div class="row">
+
       <div class="col-sm-3">
         <div class="col-sm-1 col-xs-1">
           <i class="fa fa-envelope inline-fa"></i>
@@ -9,12 +10,13 @@
           <p><a href="mailto:info@example.com"></a>info@drpooja.com </p>
         </div>
       </div>
+
       <div class="col-sm-4">
           <div class="col-sm-1 col-xs-1">
             <i class="fa fa-phone inline-fa"></i>
           </div>
-          <div class="col-sm-9 col-xs-9">
-            <p>Call : +91 9619678305 / 7303067553</p>
+          <div class="col-sm-9 col-xs-11 ">
+            <p>+91 9619678305 / 7303067553</p>
           </div>
       </div>
       <!-- <div class="col-sm-3">
@@ -25,7 +27,7 @@
           <p>24&#x2717;7 Availability</p>
         </div>
       </div> -->
-      <div class="col-sm-3 col-sm-offset-2 col-xs-6 social-icon">
+      <div class="col-sm-3 col-sm-offset-2 hidden-xs social-icon">
         <!-- <a href="https://www.facebook.com/CardiologistNaviMumbai" target="_blank"><i class="fa fa-facebook"></i></a>
         <a href="https://twitter.com/drmaheshghogare" target="_blank"><i class="fa fa-twitter"></i></a>
         <a href="https://plus.google.com/103919679234085505337" target="_blank"><i class="fa fa-google-plus"></i></a> -->

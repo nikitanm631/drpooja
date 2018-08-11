@@ -66,7 +66,7 @@
 						<div class="floater shadow">
 									<i class="fa fa-phone text-blue"></i>
 									<div>
-										<h4 class="text-blue">Emergency Number</h4>
+										<h4 class="text-blue hidden-xs">Emergency Number</h4>
 										<h5>+91 9619678305</h5>
 									</div>
 
@@ -243,7 +243,7 @@
 					</div>
 
 					<div class="col-md-6">
-						<img src="myimages/appoint-sec.jpg" alt="" class="img-responsive">
+						<img src="myimages/appoint-sec.jpg" alt="" class="img-responsive hidden-xs">
 						<div class="row">
 							<div class="col-md-12"><h2>Contact Us</h2> <br></div>
 

@@ -555,5 +555,64 @@ CONTACT PAGE
 
 
 @media only screen and (max-width:500px) {
-
+  .top-bar .col-sm-4{
+    display: inline-flex;
+  }
+  .navbar-brand img {
+    width: 205px;
+    margin-top: 5px;
+  }
+  .navbar-collapse{
+    margin-top: 5%;
+  }
+  .service-header h2{
+    font-size: 24px;
+  }
+  .service-header h1{
+    font-size: 24px;
+  }
+  .about-sec p{
+    text-align: justify;
+  }
+  .about-sec img{
+    margin-top: 5%;
+  }
+  .about-sec .img-sec .floater .fa {
+    margin-top: 2px;
+  }
+  .appointment-sec h2{
+    font-size: 24px;
+  }
+  .consulting-sec img{
+    margin: auto;
+  }
+  .consulting-sec h4{
+    margin-top: 0;
+  }
+  .consulting-sec .col-md-2{
+    border: 1px solid #ccc;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .single-header {
+    padding: 20px;
+  }
+  .single-header .col-md-12{
+    padding: 0;
+  }
+  .single-header h2{
+    font-size: 25px;
+  }
+  .service-nav li {
+    font-size: 14px;
+  }
+  .pub-content {
+    padding: 10px;
+  }
+  .plr-100 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
