@@ -374,7 +374,9 @@ Service Page
   border-right: none;
   transition: 0.5s;
 }
-
+.breadcrumb>.active {
+    color: #fff;
+}
 
 /*
 ====================================

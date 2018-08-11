@@ -31,9 +31,10 @@
 				<div class="row plr-100">
 					<div class="col-sm-6">
 							<h1 class="text-blue">Find Us</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <p>
+							<p>Contact Dr. Pooja for any queries! Reach out on any of the below details.<p>
 
-							<h4> <i class="fa fa-phone"></i> +91 00000 00000</h4>
+							<h4> <i class="fa fa-phone"></i> +91 9619678305</h4>
+							<h4> <i class="fa fa-phone"></i> +91 7303067553</h4>
 
 							<h4> <i class="fa fa-envelope"></i> info@drpooja.com</h4>
 
@@ -44,7 +45,8 @@
 							<div class="socials ">
 								<a href="#"><i class="fa fa-facebook social-ico"></i></a>
 								<a href="#"><i class="fa fa-twitter social-ico"></i></a>
-								<!-- <a href="#"><i class="fa fa-google-plus social-ico"></i</a> -->
+								<a href="#"><i class="fa fa-google-plus social-ico"></i></a>
+
 							</div>
 
 					</div>

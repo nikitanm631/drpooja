@@ -52,10 +52,12 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6 col-sm-offset-1">
-						<h5><b>Welcome</b> </h5>
+						<div class="service-header">
+							<p class="text-blue"> <b><span class="text-purple">01</span> Welcome</b> </p>
+						</div>
 						<h2>Know About The Doctor</h2>
 						<br>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>Dr. Pooja Multani (Ghogare) is one of the top Paediatric Surgeon Doctor in Navi Mumbai. She has an experience of 18 years in the field of General Surgical Procedures, Pediatric Surgery, Laparoscopic Surgery and other Urological Surgeries. She completed MCh - Pediatric Surgery from G S Medical College, KEM Hospital Mumbai in 2013. She is a member of Indian Association of Pediatric Surgery.</p>
 						<br>
 						<a href="about.php" class="btn btn-theme">Read More</a>
 					</div>
@@ -65,7 +67,7 @@
 									<i class="fa fa-phone text-blue"></i>
 									<div>
 										<h4 class="text-blue">Emergency Number</h4>
-										<h5>123 456 789</h5>
+										<h5>+91 9619678305</h5>
 									</div>
 
 							</div>
@@ -104,10 +106,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Service 1</h4>
-									<p>lorem ipsum dolor sit amet</p>
+									<h4>Colonoscopy</h4>
+									<p> Colonoscopies are also used to </p>
 									<br>
-									<a href="#" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-colonoscopy.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>
@@ -119,10 +121,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Service 1</h4>
-									<p>lorem ipsum dolor sit amet</p>
+									<h4>Pediatric Cystoscopy</h4>
+									<p>A cystoscopy is a procedure to</p>
 									<br>
-									<a href="#" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-cstoscopy.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>
@@ -134,10 +136,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Service 1</h4>
-									<p>lorem ipsum dolor sit amet</p>
+									<h4>Neonatal surgeries</h4>
+									<p>Being told that your baby</p>
 									<br>
-									<a href="#" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-neonatal.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>
@@ -149,10 +151,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Service 1</h4>
-									<p>lorem ipsum dolor sit amet</p>
+									<h4>Pediatric Urology</h4>
+									<p>If your child has an illness </p>
 									<br>
-									<a href="#" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-urology.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>
@@ -163,7 +165,7 @@
 
 					<div class="row">
 							<div class="col-md-12 text-center">
-								<a href="#" class="btn btn-theme">More Services</a>
+								<a href="services.php" class="btn btn-theme">More Services</a>
 							</div>
 					</div>
 
@@ -215,7 +217,6 @@
 					<div class="col-md-6">
 						<h2>Book An Appointment</h2>
 						<br>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </p>
 
 						<br>
 
@@ -246,13 +247,13 @@
 						<div class="row">
 							<div class="col-md-12"><h2>Contact Us</h2> <br></div>
 
-							<div class="col-md-4">
+							<!-- <div class="col-md-4">
 								<p class="text-blue"> <b>Address:</b> </p>
 								<p>Address line 1, 400001</p>
-							</div>
-							<div class="col-md-4">
+							</div> -->
+							<div class="col-md-8">
 								<p class="text-blue"> <b>Phone:</b> </p>
-								<p>12345678900</p>
+								<p>+91 9619678305 / 7303067553</p>
 							</div>
 							<div class="col-md-4">
 								<p class="text-blue"> <b>Email:</b> </p>
