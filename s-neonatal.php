@@ -35,7 +35,7 @@
           <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
               <h2><span class="text-purple">Neonatal </span><span class="text-red">Surgeries</span> </h2>
-              <img src="myimages/services/10.jpg" alt="Dr Pooja" class="img-responsive">
+              <img src="myimages/services/neonatal.jpg" alt="Dr Pooja" class="img-responsive">
               <br>
               <p class="text-justify">Being told that your baby will need surgery can be a frightening and worrying experience for parents. The conditions that require surgery early in life represent a real spectrum from those that are relatively minor to some more major, complex conditions. Some conditions are detected during pregnancy, by routine scans, others are not obvious until after the baby has been born, or develop in the early weeks</p>
               <p class="text-justify">There is another range of conditions that can affect the baby after birth, and can present quite suddenly. These include a condition that affects premature babies in particular, necrotising enterocolitis or NEC, which is an inflammation and infection of the gut. Another is a condition called atresia which is a blockage somewhere in the bowels. Finally hernias in the groin, which can usually develop after birth and generally require only a minor operation to correct.</p>

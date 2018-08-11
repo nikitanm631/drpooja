@@ -35,11 +35,11 @@
           <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
               <h2><span class="text-purple">Pediatric </span><span class="text-red">Urology</span> </h2>
-              <img src="myimages/services/10.jpg" alt="Dr Pooja" class="img-responsive">
+              <img src="myimages/services/urology.jpg" alt="Dr Pooja" class="img-responsive">
               <br>
               <p class="text-justify">If your child has an illness or disease of the genitals or urinary tract (kidneys, ureters, bladder), a pediatric urologist has the experience and qualifications to treat your child. Because we specialize in pediatric urology, we are able to provide our patients with the most innovative, comprehensive and clinically advanced care available.</p>
               <p class="text-justify">Children are not just small adults. They cannot always say what is bothering them. They cannot always answer medical questions, and are not always able to be patient and cooperative during a medical examination.</p>
-            
+
             </div>
           </div>
         </div>

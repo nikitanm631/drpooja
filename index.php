@@ -277,27 +277,27 @@
 				<div class="row">
 					<div class="col-md-2">
 						<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
-						<h4 class="text-center">Kharghar Medicity Hospital</h4>
+						<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
 					</div>
 					<div class="col-md-2">
 						<img src="myimages/hospitals/apollo.jpg" alt="" class="img-responsive">
-						<h4 class="text-center">Apollo Hospital Belapur</h4>
+						<h4 class="text-center text-purple"> <b>Belapur</b> </h4>
 					</div>
 					<div class="col-md-2">
 						<img src="myimages/hospitals/fortis.jpg" alt="" class="img-responsive">
-						<h4 class="text-center">Fortis Hospital Vashi</h4>
+						<h4 class="text-center text-purple"> <b>Vashi</b> </h4>
 					</div>
 					<div class="col-md-2">
 						<img src="myimages/hospitals/c9.jpg" alt="" class="img-responsive">
-						<h4 class="text-center">CloudNine Hospital vashi</h4>
+						<h4 class="text-center text-purple"> <b>vashi</b> </h4>
 					</div>
 					<div class="col-md-2">
 						<img src="myimages/hospitals/dy.jpg" alt="" class="img-responsive">
-						<h4 class="text-center">Dr. D.Y.Patil Hospital Nerul</h4>
+						<h4 class="text-center text-purple"> <b>Nerul</b> </h4>
 					</div>
 					<div class="col-md-2">
 						<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
-						<h4 class="text-center">Motherhood Hospital Kharghar</h4>
+						<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
 					</div>
 				</div>
 			</div>

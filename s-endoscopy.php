@@ -35,11 +35,11 @@
           <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
               <h2><span class="text-purple">Bronchoscopy </span><span class="text-red"> and Endoscopy</span> </h2>
-              <img src="myimages/services/10.jpg" alt="Dr Pooja" class="img-responsive">
+              <img src="myimages/services/bronchoscopy.jpg" alt="Dr Pooja" class="img-responsive">
               <br>
               <p class="text-justify"><b>Bronchoscopy : </b> Bronchoscopy involves the examination of air passages for detecting a variety of respiratory disorders including malignant ones such as lung cancer.  The test is carried out with the help of a bronchoscope which consists of a flexible tube, approximately two feet long and half an inch wide. During the procedure, the bronchoscope is gently pushed down the trachea via the patient’s mouth or nose to reach the insides of the lungs. </p>
               <p class="text-justify"><b>Endoscopy : </b>This procedure is often used in diagnosis of pleural mesothelomia. Upper GI Endoscopy or Esophagogastroduodenoscopy (EGD) is a special type of endoscopy that involves the examination of the upper gastrointestinal tract. It  is usually carried out on an outpatient basis, similar to laparoscopy. The procedure can also help doctors gain a better understanding of intestinal polyps, ulcers and stomach cancer.</p>
-              
+
             </div>
           </div>
         </div>

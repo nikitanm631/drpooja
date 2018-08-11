@@ -25,7 +25,7 @@
 	</div>
 	<!-- END SINGLE HEADER -->
 
-	<section>
+	<section class="contact-sec-1">
 		<div class="contact-page pt-55 pb-40">
 			<div class="container">
 				<div class="row plr-100">
@@ -41,9 +41,11 @@
 
 							<p>Socials</p>
 
-							<a href="#"><i class="fa fa-facebook social-ico"></i></a>
-							<a href="#"><i class="fa fa-twitter social-ico"></i></a>
-							<a href="#"><i class="fa fa-google-plus social-ico"></i</a>
+							<div class="socials ">
+								<a href="#"><i class="fa fa-facebook social-ico"></i></a>
+								<a href="#"><i class="fa fa-twitter social-ico"></i></a>
+								<!-- <a href="#"><i class="fa fa-google-plus social-ico"></i</a> -->
+							</div>
 
 					</div>
 					<div class="col-sm-6">
@@ -99,6 +101,43 @@
 			</div>
 		</div>
 	</section>
+
+	<!-- Consulting Hospital Sec -->
+	<section class="consulting-sec pt-55 pb-40 contact-sec-2">
+		<div class="container">
+			<div class="service-header text-center">
+
+				<h1>Consulting Hospitals</h1>
+			</div>
+			<div class="row">
+				<div class="col-md-2">
+					<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
+					<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
+				</div>
+				<div class="col-md-2">
+					<img src="myimages/hospitals/apollo.jpg" alt="" class="img-responsive">
+					<h4 class="text-center text-purple"> <b>Belapur</b> </h4>
+				</div>
+				<div class="col-md-2">
+					<img src="myimages/hospitals/fortis.jpg" alt="" class="img-responsive">
+					<h4 class="text-center text-purple"> <b>Vashi</b> </h4>
+				</div>
+				<div class="col-md-2">
+					<img src="myimages/hospitals/c9.jpg" alt="" class="img-responsive">
+					<h4 class="text-center text-purple"> <b>vashi</b> </h4>
+				</div>
+				<div class="col-md-2">
+					<img src="myimages/hospitals/dy.jpg" alt="" class="img-responsive">
+					<h4 class="text-center text-purple"> <b>Nerul</b> </h4>
+				</div>
+				<div class="col-md-2">
+					<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
+					<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Consulting Hospital Sec -->
 
 	<?php include 'includes/footer.php'; ?>
 </body>

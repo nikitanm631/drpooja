@@ -210,7 +210,7 @@ body{
 
 
 /*------------------------------------------------------------------------------ about section css */
-.about-sec, .doc-sec{
+.about-sec, .doc-sec, .contact-sec-1{
   background-image: url('../myimages/top_triangle_bg.jpg');
   background-size: cover;
   background-position: right;
@@ -252,7 +252,7 @@ body{
 SERVICE SECTION
 ====================================
 */
-.service-sec{
+.service-sec, .contact-sec-2{
   background-image: url("../myimages/bottom-triangle-bg.jpg");
   padding-bottom: 60px;
   background-size: cover;

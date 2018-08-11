@@ -35,7 +35,7 @@
           <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
               <h2><span class="text-purple">Pediatric </span><span class="text-red">Cystoscopy</span> </h2>
-              <img src="myimages/services/10.jpg" alt="Dr Pooja" class="img-responsive">
+              <img src="myimages/services/cystoscopy.jpg" alt="Dr Pooja" class="img-responsive">
               <br>
               <p class="text-justify">A cystoscopy is a procedure to look inside your child's urethra and bladder using a cystoscope. A cystoscope is a small tube with a light and magnifying camera on the end. The procedure is used to diagnose and treat conditions of the bladder and urethra. Your child may bleed more than expected or develop an infection.</p>
               <p class="text-justify"><b>Procedure : </b>Your child will be given general anesthesia to keep him or her asleep and pain free during the procedure. The cystoscope will be will be placed through your child's urethra and into his or her bladder. The urologist will look at the walls of your child's urethra as the scope goes through to his or her bladder. Your child's bladder will be filled with liquid so the urologist can see the inside of his or her bladder more clearly. </p>
