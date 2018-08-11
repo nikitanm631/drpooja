@@ -196,9 +196,30 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="owl-carousel owl-theme testimonials">
-							    <div class="item">
-										<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"</p>
-										<p> <b>XYZ</b> </p>
+
+								<div class="item">
+									<p>"Dr. Pooja have been taking care of my boys for a decade and I couldn't be more pleased."</p>
+									<p> <b>Anita Pawar</b> </p>
+								</div>
+									<div class="item">
+										<p>"She is very professional, very attentive. Always provide different options and make sure that my experience is the best. She pretty much feel like family to me."</p>
+										<p> <b>Vishnu Das</b> </p>
+							    </div>
+									<div class="item">
+										<p>"Amazing dr with an AWESOME STAFF.  So personable & accommodating.  Treated me so well.  Highest of recommendations!!"</p>
+										<p> <b>Pankaj Yadav</b> </p>
+							    </div>
+									<div class="item">
+										<p>"Overall great care. Easy to make appointments. Great surgeon!"</p>
+										<p> <b>Sarita Pawar</b> </p>
+							    </div>
+									<div class="item">
+										<p>"I highly recommend her as the pediatrician to care for your children."</p>
+										<p> <b>Sushmita Mukherjee</b> </p>
+							    </div>
+									<div class="item">
+										<p>"We love Dr. Pooja and feel grateful our children have a Dr. we can trust and feel comfortable with. No doubt the best around!"</p>
+										<p> <b>Mr & Mrs Varma</b> </p>
 							    </div>
 
 							</div>
