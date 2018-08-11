@@ -290,7 +290,7 @@
 		<!-- END APPOINTMENT SECTION -->
 
 		<!-- Consulting Hospital Sec -->
-		<section class="consulting-sec pt-55 pb-40">
+		<section class="consulting-sec-home pt-55 pb-40">
 			<div class="container">
 				<div class="service-header text-center">
 					<p class="text-blue"> <b><span class="text-blue">05</span> Consulting Hospitals</b> </p>

@@ -333,47 +333,52 @@ APPOINTMENT SECTION
 Service Page
 ==================================== */
 .service-nav li{
-  padding: 14px;
+  padding: 9px;
   border: 1px solid #efefef;
   color: #3c3c3c;
   font-size: 17px;
   transition: 0.5s;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
-.service-nav li:before{
+.service-page .col-md-4 {
+  width: 29.333333%;
+  margin-right: 40px;
+}
+/* .service-nav li:before{
   content: '\027A4';
   padding-right: 15px;
   border-right: 1px solid #ccc;
   margin-right: 15px;
   transition: 0.5s;
-}
+} */
 .service-nav li.active{
   color: #ffffff;
-  background: #3494E6;
-  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);
-  background: linear-gradient(to right, #EC6EAD, #3494E6);
+  background: #30cfbe;
+
   transition: 0.5s;
 }
-.service-nav li.active:before{
+/* .service-nav li.active:before{
   content: '\027A4';
   padding-right: 15px;
   margin-right: 0;
   border-right: none;
   transition: 0.5s;
-}
+} */
 .service-nav li:hover{
   color: #ffffff;
-  background: #3494E6;
-  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);
-  background: linear-gradient(to right, #EC6EAD, #3494E6);
+  background: #30cfbe;
+
   transition: 0.5s;
 }
-.service-nav li:hover:before{
+/* .service-nav li:hover:before{
   content: '\027A4';
   padding-right: 15px;
   margin-right: 0;
   border-right: none;
   transition: 0.5s;
-}
+} */
 .breadcrumb>.active {
     color: #fff;
 }
@@ -398,11 +403,17 @@ Single HEADER
 ======================================
 */
 .single-header{
-  padding: 40px;
+  padding: 0px;
   color:white;
 }
 .single-header ol li a{
   color:white;
+}
+.single-header h2{
+  margin-top: 10px;
+}
+.breadcrumb{
+  margin-bottom: 10px;
 }
 
 
@@ -553,6 +564,29 @@ CONTACT PAGE
   padding: 14px 13px;
 }
 
+.consulting-sec{
+  background: #f6f7fb;
+}
+.consulting-col{
+  position: relative;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 26px;
+  background-color: #ffffff;
+}
+.consulting-col h4{
+  margin-top: 33px;
+}
+.consulting-sec img{
+  margin: auto;
+  position: absolute;
+  width: 20%;
+  top: -36px;
+  left: 40%;
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+}
+
 
 @media only screen and (max-width:500px) {
   .top-bar .col-sm-4{
@@ -583,13 +617,13 @@ CONTACT PAGE
   .appointment-sec h2{
     font-size: 24px;
   }
-  .consulting-sec img{
+  .consulting-sec-home img{
     margin: auto;
   }
-  .consulting-sec h4{
+  .consulting-sec-home h4{
     margin-top: 0;
   }
-  .consulting-sec .col-md-2{
+  .consulting-sec-home .col-md-2{
     border: 1px solid #ccc;
     margin-left: 40px;
     margin-right: 40px;
@@ -597,7 +631,7 @@ CONTACT PAGE
     margin-bottom: 5px;
   }
   .single-header {
-    padding: 20px;
+    padding: 0px;
   }
   .single-header .col-md-12{
     padding: 0;
@@ -614,5 +648,9 @@ CONTACT PAGE
   .plr-100 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+  .service-page .col-md-4 {
+    width: 100%;
+    margin-right: 0;
   }
 }
