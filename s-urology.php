@@ -38,8 +38,19 @@
                 <h2><span class="text-purple">Pediatric </span><span class="text-red">Urology</span> </h2>
                 <img src="myimages/services/urology.jpg" alt="Dr Pooja" class="img-responsive">
                 <br>
-                <p class="text-justify">If your child has an illness or disease of the genitals or urinary tract (kidneys, ureters, bladder), a pediatric urologist has the experience and qualifications to treat your child. Because we specialize in pediatric urology, we are able to provide our patients with the most innovative, comprehensive and clinically advanced care available.</p>
-                <p class="text-justify">Children are not just small adults. They cannot always say what is bothering them. They cannot always answer medical questions, and are not always able to be patient and cooperative during a medical examination.</p>
+                <p class="text-justify">Pediatric Urology is a sub-speciality of surgery which deals with disorders of the Genitourinary System in children, that includes the kidneys, ureters, bladder, sexual and reproductive organs.Pediatric urological disorders are present in children from birth and are very different from that of adult urological problems. We focus on a wide range of urologic problems affecting children, including obstructions in the urinary tract, incontinence, vesicoureteral reflux, hypospadias, undescended testis, genital abnormalities and tumors of the kidney, bladder, vagina, and testes in children.</p>
+                <p class="text-justify">In many cases nowadays, urological problems can be managed successfully without surgery by waiting with careful observation, thus delaying or even avoiding the surgery completely. Advances in technology and instrumentation have made more and more Laparoscopic and Endoscopic urological surgeries possible in children, eliminating many other problems associated with open surgery.</p>
+                <p class="text-justify">In cases where there is a need for a surgery, it is performed with great expertise, precision and care, considering the fact that the patient being operated on is a small child. The management of urological problems, if any, in a child can be planned even before the delivery of a child.We work in collaboration with our obstetrician and pediatric nephrologist to ensure that.</p>
+                <p><b>Urological disorders and surgeries -</b> </p>
+                <ul>
+                  <li>Undescended testis</li>
+                  <li>Phimosis</li>
+                  <li>Hypospadias</li>
+                  <li>Pelviureteric junction obstruction</li>
+                  <li>Vesicoureteric reflux</li>
+                  <li>Posterior urethral valve</li>
+                  <li>Bladder Exstrophy</li>
+                </ul>
 
               </div>
             </div>

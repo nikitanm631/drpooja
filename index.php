@@ -106,10 +106,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Colonoscopy</h4>
-									<p> Colonoscopies are also used to </p>
+									<h4>Paediatric Urology</h4>
+									<p>It is a sub-speciality of surgery</p>
 									<br>
-									<a href="s-colonoscopy.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-urology.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>
@@ -121,10 +121,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Pediatric Cystoscopy</h4>
-									<p>A cystoscopy is a procedure to</p>
+									<h4>Paediatric Surgery</h4>
+									<p>It is a consolidation of </p>
 									<br>
-									<a href="s-cstoscopy.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-surgery.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>
@@ -136,8 +136,8 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Neonatal surgeries</h4>
-									<p>Being told that your baby</p>
+									<h4>Neonatal Surgery</h4>
+									<p>It deals exclusively with newborns</p>
 									<br>
 									<a href="s-neonatal.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
@@ -151,10 +151,10 @@
 									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
-									<h4>Pediatric Urology</h4>
-									<p>If your child has an illness </p>
+									<h4>Paediatric Oncosurgery </h4>
+									<p>It deals with diagnosis and </p>
 									<br>
-									<a href="s-urology.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
+									<a href="s-oncosurgery.php" class="btn-read bg-blue"> <i class="fa fa-arrow-right"></i> </a>
 								</div>
 								<br>
 							</div>

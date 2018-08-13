@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Neonatal Surgeries</title>
+    <title>Neonatal Surgery</title>
     <?php include 'includes/head.php' ?>
   </head>
   <body>
@@ -13,11 +13,11 @@
       <div class="container-fluid">
         <div class="row text-center">
           <div class="col-md-12">
-            <h2>Neonatal Surgeries</h2>
+            <h2>Neonatal Surgery</h2>
             <ol class="breadcrumb">
               <li><a href="index.php">Home</a></li>
               <li><a href="services.php">Services</a></li>
-              <li class="active">Neonatal Surgeries</li>
+              <li class="active">Neonatal Surgery</li>
             </ol>
           </div>
         </div>
@@ -35,12 +35,21 @@
           <div class="col-md-8">
             <div class="tab-content">
               <div id="home" class="tab-pane fade in active">
-                <h2><span class="text-purple">Neonatal </span><span class="text-red">Surgeries</span> </h2>
+                <h2><span class="text-purple">Neonatal </span><span class="text-red">Surgery</span> </h2>
                 <img src="myimages/services/neonatal.jpg" alt="Dr Pooja" class="img-responsive">
                 <br>
-                <p class="text-justify">Being told that your baby will need surgery can be a frightening and worrying experience for parents. The conditions that require surgery early in life represent a real spectrum from those that are relatively minor to some more major, complex conditions. Some conditions are detected during pregnancy, by routine scans, others are not obvious until after the baby has been born, or develop in the early weeks</p>
-                <p class="text-justify">There is another range of conditions that can affect the baby after birth, and can present quite suddenly. These include a condition that affects premature babies in particular, necrotising enterocolitis or NEC, which is an inflammation and infection of the gut. Another is a condition called atresia which is a blockage somewhere in the bowels. Finally hernias in the groin, which can usually develop after birth and generally require only a minor operation to correct.</p>
-                <p class="text-justify">It is not always clear what the progress of the baby will be after their operation. The conditions vary, and while sometimes surgeons will have a good idea about the operation they plan to do, in other situations they will only know exactly what they have to do once they have started operating. There is unfortunately uncertainty at every stage for parents.</p>
+                <p class="text-justify">Neonatal Surgery deals exclusively with newborns who are born with congenital problems and requiresurgical correction. These babies require intensive care, beginning prenatally. At the time of prenatal screening, if any anomalies are discovered, a pediatricsurgeon meets with the expecting families to counsel them regarding the wayforward. The prenatal visits are used to plan and prepare for the operationthat will be needed after birth.</p>
+                <p class="text-justify">We offer the best possible care for the newborn during the entire process of surgery. Ourstate-of-the-art operating room and neonatal intensive care unit provide the latest advances in equipment. In addition, we have fully equipped newborn transportteam that can safely bring the newborn for specialised care.</p>
+                <p class="text-justify"><b>Commonly performed newborn surgeries -</b> </p>
+                <ul>
+                  <li>Tracheo-esophagealfistula</li>
+                  <li>Diaphragmatic Hernia</li>
+                  <li>Duodenal and otherintestinal atresia</li>
+                  <li>Anorectal malformation</li>
+                  <li>Hirschsprungs Disease</li>
+                  <li>Malrotation</li>
+                  <li>Pyloric stenosis</li>
+                </ul>
               </div>
             </div>
           </div>

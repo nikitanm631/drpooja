@@ -1,8 +1,8 @@
 <ul class="nav nav-pills nav-stacked service-nav">
-  <a href="s-lapro.php"><li>Laparoscopic Pediatric surgery</li> </a>
-  <a href="s-colonoscopy.php"><li>Colonoscopy</li> </a>
-  <a href="s-cystoscopy.php"><li>Pediatric Cystoscopy</li> </a>
-  <a href="s-urology.php"><li>Pediatric Urology</li> </a>
-  <a href="s-neonatal.php"><li>Neonatal surgeries</li> </a>
-  <a href="s-endoscopy.php"><li>Bronchoscopy and endoscopy</li> </a>
+  <a href="s-urology.php"><li>Paediatric Urology</li> </a>
+  <a href="s-surgery.php"><li>Paediatric Surgery</li> </a>
+  <a href="s-neonatal.php"><li>Neonatal Surgery</li> </a>
+  <a href="s-lapro.php"><li>Paediatric Laparoscopy and Thoracoscopy </li> </a>
+  <a href="s-oncosurgery.php"><li>Paediatric Oncosurgery</li> </a>
+  <a href="s-daycare.php"><li>Day Care Surgery</li> </a>
 </ul>

@@ -117,7 +117,7 @@
 					<div class="consulting-col">
 						<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
 						<h4 class="text-center text-purple"> <b>Kharghar Medicity Hospital</b> </h4>
-						<p><b>Address : </b>Plot NO - C/23, Aum Sai CHS, Next to Kharghar Police Station, Next to Royal Tulip, Facing Highway, Sector 7, Kharghar, Navi Mumbai, Maharashtra 410210 </p>
+						<p><b>Address : </b>Plot NO - C/23, Aum Sai CHS, Next to Kharghar Police Station, Sector 7, Kharghar, Navi Mumbai, Maharashtra 410210 </p>
 						<p><b>Contact No : </b>070453 99388 </p>
 					</div>
 				</div>
