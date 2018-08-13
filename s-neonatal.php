@@ -38,8 +38,8 @@
                 <h2><span class="text-purple">Neonatal </span><span class="text-red">Surgery</span> </h2>
                 <img src="myimages/services/neonatal.jpg" alt="Dr Pooja" class="img-responsive">
                 <br>
-                <p class="text-justify">Neonatal Surgery deals exclusively with newborns who are born with congenital problems and requiresurgical correction. These babies require intensive care, beginning prenatally. At the time of prenatal screening, if any anomalies are discovered, a pediatricsurgeon meets with the expecting families to counsel them regarding the wayforward. The prenatal visits are used to plan and prepare for the operationthat will be needed after birth.</p>
-                <p class="text-justify">We offer the best possible care for the newborn during the entire process of surgery. Ourstate-of-the-art operating room and neonatal intensive care unit provide the latest advances in equipment. In addition, we have fully equipped newborn transportteam that can safely bring the newborn for specialised care.</p>
+                <p class="text-justify">Neonatal Surgery deals exclusively with newborns who are born with congenital problems and require surgical correction. These babies require intensive care, beginning prenatally. At the time of prenatal screening, if any anomalies are discovered, a pediatric surgeon meets with the expecting families to counsel them regarding the way forward. The prenatal visits are used to plan and prepare for the operationthat will be needed after birth.</p>
+                <p class="text-justify">We offer the best possible care for the newborn during the entire process of surgery. Our state-of-the-art operating room and neonatal intensive care unit provide the latest advances in equipment. In addition, we have fully equipped newborn transport team that can safely bring the newborn for specialised care.</p>
                 <p class="text-justify"><b>Commonly performed newborn surgeries -</b> </p>
                 <ul>
                   <li>Tracheo-esophagealfistula</li>

@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<title>Dr. Pooja Multani (Ghogare) </title>
-	<meta name = "keywords" content = "cardiologist">
-	<meta name = "description" content = "cardiologist in vashi navi mumbai">
+	<meta name = "keywords" content = "Paediatric surgeon">
+	<meta name = "description" content = "Paediatric surgeon in navi mumbai">
 
 	<?php include 'includes/head.php'; ?>
 </head>
