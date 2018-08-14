@@ -36,7 +36,7 @@
             <div class="tab-content">
               <div id="home" class="tab-pane fade in active">
                 <h2><span class="text-purple">Paediatric </span><span class="text-red"> Oncosurgery</span> </h2>
-                <img src="myimages/services/.jpg" alt="Dr Pooja" class="img-responsive">
+                <img src="myimages/services/oncosurgery.jpg" alt="Dr Pooja" class="img-responsive">
                 <br>
                 <p class="text-justify">Pediatric oncology deals with diagnosis and treatment of cancer in children. In many cases, surgery plays a critical role in the overall cancer treatment of a child.</p>
                 <p class="text-justify">We are in collaboration with our pediatric surgical oncology team create a comprehensive, long-term treatment plan to cure cancer. We bring a perspective and level of expertise that can ultimately improve outcomes for our childhood cancer patients.</p>

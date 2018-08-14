@@ -103,7 +103,7 @@
 						<div class="col-md-3">
 							<div class="service-box shadow">
 								<div class="img-sec">
-									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
+									<img src="myimages/services/h-pediatric-urology.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
 									<h4>Paediatric Urology</h4>
@@ -118,7 +118,7 @@
 						<div class="col-md-3">
 							<div class="service-box shadow">
 								<div class="img-sec">
-									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
+									<img src="myimages/services/h-pediatric-surgery.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
 									<h4>Paediatric Surgery</h4>
@@ -133,7 +133,7 @@
 						<div class="col-md-3">
 							<div class="service-box shadow">
 								<div class="img-sec">
-									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
+									<img src="myimages/services/h-neonatal-surgery.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
 									<h4>Neonatal Surgery</h4>
@@ -148,7 +148,7 @@
 						<div class="col-md-3">
 							<div class="service-box shadow">
 								<div class="img-sec">
-									<img src="http://childrens-clinic.axiomthemes.com/wp-content/uploads/2017/05/services3.jpg" alt="" class="img-responsive">
+									<img src="myimages/services/h-paediatric-oncosurgery.jpg" alt="" class="img-responsive">
 								</div>
 								<div class="text-sec text-center">
 									<h4>Paediatric Oncosurgery </h4>
@@ -290,7 +290,7 @@
 		<!-- END APPOINTMENT SECTION -->
 
 		<!-- Consulting Hospital Sec -->
-		<section class="consulting-sec-home pt-55 pb-40">
+		<!-- <section class="consulting-sec-home pt-55 pb-40">
 			<div class="container">
 				<div class="service-header text-center">
 					<p class="text-blue"> <b><span class="text-blue">05</span> Consulting Hospitals</b> </p>
@@ -320,6 +320,71 @@
 					<div class="col-md-2">
 						<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
 						<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
+					</div>
+				</div>
+			</div>
+		</section> -->
+		<!-- Consulting Hospital Sec -->
+
+		<!-- Consulting Hospital Sec -->
+		<section class="consulting-sec pt-55 pb-40 contact-sec-2">
+			<div class="container">
+				<div class="service-header text-center">
+
+					<h1>Consulting Hospitals</h1>
+				</div>
+				<br><br><br>
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="consulting-col">
+							<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
+							<h4 class="text-center text-purple"> <b>Kharghar Medicity Hospital</b> </h4>
+							<p><b>Address : </b>Plot NO - C/23, Aum Sai CHS, Next to Kharghar Police Station, Sector 7, Kharghar, Navi Mumbai, Maharashtra 410210 </p>
+							<p><b>Contact No : </b>070453 99388 </p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="consulting-col">
+							<img src="myimages/hospitals/apollo.jpg" alt="" class="img-responsive">
+							<h4 class="text-center text-purple"> <b>Apollo Hospitals, Belapur</b> </h4>
+							<p><b>Address : </b>Plot # 13, Parsik Hill Road, Off, Uran Rd, Sector 23, CBD Belapur, Navi Mumbai, Maharashtra 400614</p>
+							<p><b>Contact No : </b>022 3350 3350 </p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="consulting-col">
+							<img src="myimages/hospitals/fortis.jpg" alt="" class="img-responsive">
+							<h4 class="text-center text-purple"> <b>Fortis Hiranandani Hospital, Vashi</b> </h4>
+							<p><b>Address : </b>Plot No. 28, Juhu Chowpatty Marg, Juhu Nagar, Sector 10A, Vashi, Navi Mumbai, Maharashtra 400703 </p>
+							<p><b>Contact No : </b>022 3919 9222</p>
+						</div>
+					</div>
+				</div>
+				<br><br><br>
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="consulting-col">
+							<img src="myimages/hospitals/c9.jpg" alt="" class="img-responsive">
+							<h4 class="text-center text-purple"> <b>Cloudnine Hospital</b> </h4>
+							<p><b>Address : </b>Plot No. 17, Sector-19D, Vashi, Navi Mumbai, Maharashtra 400705 </p>
+							<p><b>Contact No : </b>1860 108 9999 </p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="consulting-col">
+							<img src="myimages/hospitals/dy.jpg" alt="" class="img-responsive">
+							<h4 class="text-center text-purple"> <b>D Y Patil Hospital, Nerul</b> </h4>
+							<p><b>Address : </b>Sector 5, Nerul, Navi Mumbai, Maharashtra 400706 </p>
+							<p><b>Contact No : </b>022 2773 5901 </p>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="consulting-col">
+							<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
+							<h4 class="text-center text-purple"> <b>Motherhood Hospital, Kharghar</b> </h4>
+							<p><b>Address : </b>Sector 7, Besides ICICI Bank, Kharghar, Navi Mumbai, Maharashtra 410210</p>
+							<p><b>Contact No : </b>070455 04599 </p>
+						</div>
 					</div>
 				</div>
 			</div>

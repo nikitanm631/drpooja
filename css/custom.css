@@ -252,7 +252,7 @@ body{
 SERVICE SECTION
 ====================================
 */
-.service-sec, .contact-sec-2{
+.service-sec{
   background-image: url("../myimages/bottom-triangle-bg.jpg");
   padding-bottom: 60px;
   background-size: cover;
@@ -273,12 +273,11 @@ SERVICE SECTION
     top: 50%;
 }
 .service-box{
-  padding: 12px;
   background-color: white;
 }
 .service-box .img-sec img{
-  margin: auto
-
+  margin: auto;
+  margin-bottom:18px;;
 }
 .service-box .btn-read{
     padding: 13px 15px;
@@ -517,10 +516,9 @@ ABOUT PAGE
 /* service page css */
 .service-page .service-col{
   border: 1px solid #ccc;
-  padding: 15px;
 }
 .service-page .service-col img{
-  margin: 20px auto;
+  margin: auto;
 
 }
 .service-page .service-col h4{
