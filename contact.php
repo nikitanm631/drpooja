@@ -109,18 +109,10 @@
 		<div class="container">
 			<div class="service-header text-center">
 
-				<h1>Consulting Hospitals</h1>
+				<h1 class="heading">Consulting Hospitals</h1>
 			</div>
 			<br><br><br>
 			<div class="row">
-				<div class="col-sm-4">
-					<div class="consulting-col">
-						<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
-						<h4 class="text-center text-purple"> <b>Kharghar Medicity Hospital</b> </h4>
-						<p><b>Address : </b>Plot NO - C/23, Aum Sai CHS, Next to Kharghar Police Station, Sector 7, Kharghar, Navi Mumbai, Maharashtra 410210 </p>
-						<p><b>Contact No : </b>070453 99388 </p>
-					</div>
-				</div>
 				<div class="col-sm-4">
 					<div class="consulting-col">
 						<img src="myimages/hospitals/apollo.jpg" alt="" class="img-responsive">
@@ -129,6 +121,15 @@
 						<p><b>Contact No : </b>022 3350 3350 </p>
 					</div>
 				</div>
+				<div class="col-sm-4">
+					<div class="consulting-col">
+						<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
+						<h4 class="text-center text-purple"> <b>Kharghar Medicity Hospital</b> </h4>
+						<p><b>Address : </b>Plot NO - C/23, Aum Sai CHS, Next to Kharghar Police Station, Sector 7, Kharghar, Navi Mumbai, Maharashtra 410210 </p>
+						<p><b>Contact No : </b>070453 99388 </p>
+					</div>
+				</div>
+
 				<div class="col-sm-4">
 					<div class="consulting-col">
 						<img src="myimages/hospitals/fortis.jpg" alt="" class="img-responsive">
@@ -140,23 +141,23 @@
 			</div>
 			<br><br><br>
 			<div class="row">
-				<div class="col-sm-4">
+				<div class="col-sm-3">
 					<div class="consulting-col">
 						<img src="myimages/hospitals/c9.jpg" alt="" class="img-responsive">
-						<h4 class="text-center text-purple"> <b>Cloudnine Hospital</b> </h4>
+						<h4 class="text-center text-purple"> <b>Cloudnine Hospital, Vashi</b> </h4>
 						<p><b>Address : </b>Plot No. 17, Sector-19D, Vashi, Navi Mumbai, Maharashtra 400705 </p>
 						<p><b>Contact No : </b>1860 108 9999 </p>
 					</div>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-3">
 					<div class="consulting-col">
 						<img src="myimages/hospitals/dy.jpg" alt="" class="img-responsive">
-						<h4 class="text-center text-purple"> <b>D Y Patil Hospital, Nerul</b> </h4>
-						<p><b>Address : </b>Sector 5, Nerul, Navi Mumbai, Maharashtra 400706 </p>
+						<h4 class="text-center text-purple"> <b>D. Y. Patil Hospital, <br> Nerul</b> </h4>
+						<p><b>Address : </b>Sector 5, Nerul East, Navi Mumbai, Maharashtra 400706 </p>
 						<p><b>Contact No : </b>022 2773 5901 </p>
 					</div>
 				</div>
-				<div class="col-sm-4">
+				<div class="col-sm-3">
 					<div class="consulting-col">
 						<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
 						<h4 class="text-center text-purple"> <b>Motherhood Hospital, Kharghar</b> </h4>
@@ -164,33 +165,15 @@
 						<p><b>Contact No : </b>070455 04599 </p>
 					</div>
 				</div>
+				<div class="col-sm-3">
+					<div class="consulting-col">
+						<img src="myimages/hospitals/terna.jpg" alt="" class="img-responsive">
+						<h4 class="text-center text-purple"> <b>Terna Hospital, Nerul</b> </h4>
+						<p><b>Address : </b>Plot no 12, Sector 22, Opp. Nerul Railway Station, Nerul West, Navi Mumbai, Maharashtra 400706</p>
+						<p><b>Contact No : </b>022 6157 8300 </p>
+					</div>
+				</div>
 			</div>
-			<!-- <div class="row">
-				<div class="col-md-2">
-					<img src="myimages/hospitals/medi.jpg" alt="" class="img-responsive">
-					<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
-				</div>
-				<div class="col-md-2">
-					<img src="myimages/hospitals/apollo.jpg" alt="" class="img-responsive">
-					<h4 class="text-center text-purple"> <b>Belapur</b> </h4>
-				</div>
-				<div class="col-md-2">
-					<img src="myimages/hospitals/fortis.jpg" alt="" class="img-responsive">
-					<h4 class="text-center text-purple"> <b>Vashi</b> </h4>
-				</div>
-				<div class="col-md-2">
-					<img src="myimages/hospitals/c9.jpg" alt="" class="img-responsive">
-					<h4 class="text-center text-purple"> <b>vashi</b> </h4>
-				</div>
-				<div class="col-md-2">
-					<img src="myimages/hospitals/dy.jpg" alt="" class="img-responsive">
-					<h4 class="text-center text-purple"> <b>Nerul</b> </h4>
-				</div>
-				<div class="col-md-2">
-					<img src="myimages/hospitals/motherhood.jpg" alt="" class="img-responsive">
-					<h4 class="text-center text-purple"> <b>Kharghar</b> </h4>
-				</div>
-			</div> -->
 		</div>
 	</section>
 	<!-- Consulting Hospital Sec -->

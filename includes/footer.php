@@ -6,6 +6,18 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animations/2.1/js/smoothscroll.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".fancybox").fancybox({
+			openEffect: "none",
+			closeEffect: "none"
+	});
+  $('.carousel').carousel({
+      interval: 1000 * 5
+    });
+});
+</script>
 <script src="js/scripts.js" charset="utf-8"></script>
 <script type="text/javascript">
   new WOW().init();
@@ -52,4 +64,6 @@ $('.consulting').owlCarousel({
 	}
 })
 </script>
+
+
 <?php include 'analytics.php'; ?>

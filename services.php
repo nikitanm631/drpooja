@@ -40,7 +40,7 @@
           <div class="col-sm-4">
             <div class="service-col">
               <img src="myimages/services/h-pediatric-surgery.jpg" alt="Dr Pooja" class="img-responsive">
-              <h4 class="text-center">Paediatric Surgery</h4>
+              <h4 class="text-center">General Paediatric Surgery.</h4>
               <h5 class="text-center"><a href="s-surgery.php">Read More</a></h5>
             </div>
           </div>
@@ -79,6 +79,34 @@
               <img src="myimages/services/h-daycare-surgery.jpg" alt="Dr Pooja" class="img-responsive">
               <h4 class="text-center">Day Care Surgery</h4>
               <h5 class="text-center"><a href="s-daycare.php">Read More</a></h5>
+            </div>
+          </div>
+
+        </div>
+        <br><br>
+        <div class="row">
+
+          <div class="col-sm-4">
+            <div class="service-col">
+              <img src="myimages/services/h-minimally-invasive.jpg" alt="Dr Pooja" class="img-responsive">
+              <h4 class="text-center">Minimally invasive surgery</h4>
+              <h5 class="text-center"><a href="s-minimally-invasive.php">Read More</a></h5>
+            </div>
+          </div>
+
+          <div class="col-sm-4">
+            <div class="service-col">
+              <img src="myimages/services/h-gi-endoscopy.jpg" alt="Dr Pooja" class="img-responsive">
+              <h4 class="text-center">GI Endoscopy</h4>
+              <h5 class="text-center"><a href="s-gi-endoscopy.php">Read More</a></h5>
+            </div>
+          </div>
+
+          <div class="col-sm-4">
+            <div class="service-col">
+              <img src="myimages/services/h-paediatric-bronchoscopy.jpg" alt="Dr Pooja" class="img-responsive">
+              <h4 class="text-center">Paediatric Bronchoscopy</h4>
+              <h5 class="text-center"><a href="s-paediatric-bronchoscopy.php">Read More</a></h5>
             </div>
           </div>
 

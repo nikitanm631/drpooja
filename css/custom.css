@@ -80,6 +80,12 @@ body{
   background-color: #ae100f;
   color: white;
 }
+.bg-purple-gradient{
+  background: #3494E6;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color:white;
+}
 .btn-theme{
   border-radius: 30px;
   padding: 8px 26px;
@@ -115,7 +121,14 @@ body{
 .no-pad{
   padding: 0;
 }
-
+.heading{
+    font-size: 3.75rem;
+    font-weight: 200;
+    font-style: normal;
+}
+.noto{
+  font-family: 'Noto Serif', serif;
+}
 /* --------------------------single page banner css */
 .banner-head{
   background-image: url('../myimages/banner.jpg');
@@ -135,10 +148,12 @@ body{
 }
 
 
+
+
 /*---------------------------top bar css*/
 .top-bar{
-  background-color: #ffffff;
-  color: #6e7480;
+  background-color: #30CFBE;
+  color: #ffffff;
   border-bottom: 2px solid #f2f3f7;
 }
 .top-bar .row{
@@ -167,12 +182,19 @@ body{
 }
 .navbar-default .navbar-nav>li>a{
   margin-right: 5px;
-  color: #000000;
+  color: #6e7480;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   padding-bottom: 10px;
   padding-top: 10px;
   letter-spacing: 0.05em;
+  transition: 0.5s;
+  border-bottom: 1px solid white
+}
+.navbar-default .navbar-nav>li>a:hover{
+  color: #29cebc;
+  transition: 0.5s;
+  border-color: #29cebc;
 }
 .navbar-brand{
   padding: 0
@@ -207,6 +229,70 @@ body{
 .carousel-control.right{
   background-image: none!important;
 }
+.slide1-floater{
+  position: absolute;
+  top: 9%;
+  left: 0;
+  padding: 0
+}
+.slide2-floater{
+  right: 0;
+  position: absolute;
+  top: 9%;
+  padding: 0;
+}
+.slide3-floater{
+  position: absolute;
+  top: 3%;
+  width: 100%;
+}
+.slide3-floater .img-sec{
+  margin-top: 20%;
+}
+.slide1-floater img{
+  animation-name: banner-fade;
+  animation-duration: 4s;
+}
+@keyframes banner-fade {
+    from {opacity: 0.1;}
+    to {opacity: 1;}
+}
+
+.banner-shadow{
+  box-shadow: rgba(125, 111, 194, 0.6) 0px 0px 38px;
+}
+.slide-text{
+  position: absolute;
+  left: 0;
+  color: white;
+  animation-name: banner-slide;
+  animation-duration: 2s;
+}
+.slide1-floater .slide-text{
+  width: 140%;
+}
+.slide2-floater .slide-text{
+  width: 106%;
+}
+@keyframes banner-slide {
+    from {left: 100%;}
+    to {left: 0;}
+}
+.slide-text h1{
+    font-size: 55px;
+    letter-spacing: -2px;
+    transition: none 0s ease 0s;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+    font-weight: bold;
+
+}
+.slide-text .btn-banner{
+  background-color: white;
+  color:#92e0c7;
+  padding: 22px 42px;
+  border-radius: 50px;
+}
 
 
 /*------------------------------------------------------------------------------ about section css */
@@ -220,7 +306,6 @@ body{
 }
 .about-sec .img-sec .floater{
     width: 73%;
-    background: white;
     left: 52px;
     bottom: -21px;
     border-radius: 4px;
@@ -245,7 +330,12 @@ body{
     font-weight: bold;
     font-size: 28px;
 }
-
+.bg-purple-gradient{
+  background: #3494E6;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color:white;
+}
 
 /*
 ====================================
@@ -563,7 +653,7 @@ CONTACT PAGE
 }
 
 .consulting-sec{
-  background: #f6f7fb;
+  background: #e1e2e6;
 }
 .consulting-col{
   position: relative;
@@ -583,6 +673,10 @@ CONTACT PAGE
   left: 40%;
   border: 1px solid #d8d8d8;
   border-radius: 8px;
+}
+
+.thumbnail{
+  margin-bottom: 3px;
 }
 
 

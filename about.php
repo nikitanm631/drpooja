@@ -51,7 +51,7 @@
 					</ul>
 				</div>
 				<div class="col-md-4">
-					<img src="myimages/doc-pooja.jpg" alt="" class="img-responsive" style="margin-top:33%;">
+					<img src="myimages/doc-pooja-home.jpg" alt="" class="img-responsive" style="margin-top:33%;">
 				</div>
 			</div>
 		</div>
